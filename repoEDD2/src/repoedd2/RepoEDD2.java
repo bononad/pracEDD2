@@ -17,6 +17,7 @@ public class RepoEDD2 {
     public static void main(String[] args) {
 <<<<<<< HEAD
         System.out.println("IDE Netbeans");
+         System.out.println("Segona branca");
 =======
         System.out.print ("Hello World.");
         System.out.println ("IDE Eclipse");
