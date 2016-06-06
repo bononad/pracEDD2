@@ -15,7 +15,13 @@ public class RepoEDD2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("IDE Netbeans");
+=======
+        System.out.print ("Hello World.");
+        System.out.println ("IDE Eclipse");
+        System.out.println ("Segona modificacio");
+>>>>>>> origin/master
     }
     
 }
